@@ -1,0 +1,15 @@
+{
+  "name": "Game",
+  "version": "0.0.0",
+  "description": "MarkandJayGame",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.7"
+  }
+}
